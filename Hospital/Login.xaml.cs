@@ -25,7 +25,7 @@ namespace Hospital
         {
             InitializeComponent();
         }
-
+        // i have made alot of changes nehaanehaena
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             try
