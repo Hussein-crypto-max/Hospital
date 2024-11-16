@@ -25,6 +25,7 @@ namespace Hospital
         public int pp_ID;
         public Appintment2(int d_ID, int p_ID)
         {
+            // i have made alot of changes nehaanehaena
             InitializeComponent();
             D_ID = d_ID;
             pp_ID = p_ID;

@@ -23,5 +23,6 @@
 
             <Button BorderThickness="0" FontWeight="Bold" Background="Transparent" BorderBrush="Transparent" Foreground="White" FontSize="20" Click="Button_Click_1" >Signup</Button>
         </Border>
+        
         </Grid>
 </Page>
